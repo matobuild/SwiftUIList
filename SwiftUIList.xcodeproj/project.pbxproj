@@ -11,6 +11,7 @@
 		483BB7EA259DB3B40080E4E1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483BB7E9259DB3B40080E4E1 /* ContentView.swift */; };
 		483BB7EC259DB3B40080E4E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 483BB7EB259DB3B40080E4E1 /* Assets.xcassets */; };
 		483BB7EF259DB3B40080E4E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 483BB7EE259DB3B40080E4E1 /* Preview Assets.xcassets */; };
+		48429536259EED7B00D1A592 /* Excercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48429535259EED7A00D1A592 /* Excercise.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		483BB7EB259DB3B40080E4E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		483BB7EE259DB3B40080E4E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		483BB7F0259DB3B40080E4E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48429535259EED7A00D1A592 /* Excercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Excercise.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				483BB7E7259DB3B40080E4E1 /* SwiftUIListApp.swift */,
 				483BB7E9259DB3B40080E4E1 /* ContentView.swift */,
 				483BB7EB259DB3B40080E4E1 /* Assets.xcassets */,
+				48429535259EED7A00D1A592 /* Excercise.swift */,
 				483BB7F0259DB3B40080E4E1 /* Info.plist */,
 				483BB7ED259DB3B40080E4E1 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				483BB7EA259DB3B40080E4E1 /* ContentView.swift in Sources */,
+				48429536259EED7B00D1A592 /* Excercise.swift in Sources */,
 				483BB7E8259DB3B40080E4E1 /* SwiftUIListApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
